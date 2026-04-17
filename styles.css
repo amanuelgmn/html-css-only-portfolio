@@ -1,0 +1,25 @@
+body {
+    background-color: #f8eee3;
+    margin: 25px 10px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.link-container {
+    padding: 20px;
+    border-bottom-left-radius: 8px;
+    border-top-left-radius: 8px;
+    border-bottom-right-radius: 32px;
+    border-top-right-radius: 32px;
+    background-color: #ede4d8;
+    backdrop-filter: blur(44px);
+    color: rgb(24, 1, 2);
+    display: flex;
+    width: 50%;
+    justify-content: space-between;
+    
+
+}
