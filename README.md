@@ -3,6 +3,10 @@
 A modern, responsive personal portfolio website built with plain HTML and CSS.  
 It presents profile information, projects, technical skills, and contact options in a clean single-page layout.
 
+## Live Demo
+
+- [plainhtmlcssportfolio.netlify.app](https://plainhtmlcssportfolio.netlify.app)
+
 ## Project Highlights
 
 - **Single-page portfolio** with clear sections: About, Projects, Skills, and Contact
