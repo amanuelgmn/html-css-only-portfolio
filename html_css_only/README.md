@@ -5,7 +5,7 @@ It presents profile information, projects, technical skills, and contact options
 
 ## Live Demo
 
-- [plainhtmlcssportfolio.netlify.app](https://plainhtmlcssportfolio.netlify.app)
+- [plainhtmlcssportfolio.netlify.app](https://plainhtmlcss.netlify.app/)
 
 ## Project Highlights
 
