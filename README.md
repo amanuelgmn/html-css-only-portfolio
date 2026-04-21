@@ -9,10 +9,14 @@ A modern, responsive portfolio built with plain HTML and CSS. Features a clean s
 
 **Live Preview**: [https://plainhtmlcss.netlify.app/](https://plainhtmlcss.netlify.app/)
 
+**Details**: [View README](./html_css_only/README.md)
+
 ### JavaScript Enhanced Version
 This version includes all the features of the HTML/CSS version plus JavaScript enhancements for improved user experience, including theme toggling, smooth scrolling, animations, and interactive elements.
 
 **Live Preview**: [https://jsversion.netlify.app/](https://jsversion.netlify.app/)
+
+**Details**: [View README](./html_css_js/README.md)
 
 ## Project Structure
 
